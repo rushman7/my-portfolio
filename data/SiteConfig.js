@@ -6,12 +6,12 @@ module.exports = {
   siteTitleAlt: "An online representation of projects created by Arthur Pisakhov.", // Alternative site title for SEO.
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "arthur-pisakhov.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "An online representation of projects created by Arthur Pisakhov.", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://haysclark.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://i.imgur.com/0JybAxJ.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Arthur Pisakhov", // The author name used in the RSS file
