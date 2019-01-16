@@ -6,7 +6,7 @@ module.exports = {
   siteTitleAlt: "An online representation of projects created by Arthur Pisakhov.", // Alternative site title for SEO.
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "arthur-pisakhov.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://arthur-pisakhov.netlify.com/", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "An online representation of projects created by Arthur Pisakhov.", // Website description used for RSS feeds/meta description tag.
