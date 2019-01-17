@@ -5,11 +5,11 @@ author: "casper"
 date: "2019-01-15"
 category: "Cookbook"
 tags:
-    - cookbook
     - react
     - apollo
     - graphql
     - less
+    - prisma
 ---
 
 www.your-cookbook.us/

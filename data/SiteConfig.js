@@ -2,8 +2,8 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
-  siteTitle: "Arthur Pisakhov's Online Portfolio", // Site title.
-  siteTitleAlt: "An online representation of projects created by Arthur Pisakhov.", // Alternative site title for SEO.
+  siteTitle: "Arthur Pisakhov", // Site title.
+  siteTitleAlt: "A portfolio of projects created by Arthur Pisakhov, a Full Stack Web Developer.", // Alternative site title for SEO.
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://arthur-pisakhov.netlify.com", // Domain of your website without pathPrefix.
@@ -22,7 +22,8 @@ module.exports = {
   siteSocialUrls: [
     "https://github.com/rushman7",
     "http://www.linkedin.com/in/arthur-pisakhov",
-    "mailto:arthurpisakhov1@gmail.com"
+    "mailto:arthurpisakhov1@gmail.com",
+    "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit"
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
@@ -40,7 +41,12 @@ module.exports = {
     {
       label: "Email",
       url: "mailto:arthurpisakhov1@gmail.com",
-      iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
+      iconClassName: "fa fa-mail" // Disabled, see Navigation.jsx
+    },
+    {
+      label: "Resume",
+      url: "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit?usp=sharing",
+      iconClassName: "far fa-file" // Disabled, see Navigation.jsx
     }
   ],
   // Copyright string for the footer of the website and RSS feed.
