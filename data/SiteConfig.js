@@ -3,13 +3,13 @@ module.exports = {
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Arthur Pisakhov", // Site title.
-  siteTitleAlt: "A portfolio of projects created by Arthur Pisakhov, a Full Stack Web Developer.", // Alternative site title for SEO.
+  siteTitleAlt: "Full Stack Web Developer.", // Alternative site title for SEO.
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://arthur-pisakhov.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "An online representation of projects created by Arthur Pisakhov.", // Website description used for RSS feeds/meta description tag.
+    "A portfolio of projects created by Arthur Pisakhov, A Full Stack Web Developer learning and discovering his love for code.", // Website description used for RSS feeds/meta description tag.
   siteCover:
     "https://i.imgur.com/0JybAxJ.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
@@ -23,7 +23,7 @@ module.exports = {
     "https://github.com/rushman7",
     "http://www.linkedin.com/in/arthur-pisakhov",
     "mailto:arthurpisakhov1@gmail.com",
-    "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit"
+    "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit?usp=sharing"
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
