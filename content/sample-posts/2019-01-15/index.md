@@ -2,8 +2,8 @@
 title: "Cookbook"
 cover: "https://i.gyazo.com/a53b4dddbe5b713c804ad6780913a35d.png"
 author: "casper"
-date: "2019-01-15"
-category: "Cookbook"
+date: "2018-12-10"
+category: "Project"
 tags:
     - react
     - apollo
@@ -12,7 +12,7 @@ tags:
     - prisma
 ---
 
-www.your-cookbook.us/
+www.your-cookbook.us/ 
 
 Cookbook is a web application centered around extracting recipes you find online and scheduling them for dates as well as meal times. Functionality includes a grocery list of ingredients to buy and step-by-step guide on creating each meal plan! Personal focus was on the Database(Prisma) and connection of Front-End to Back-End (Apollo).
 

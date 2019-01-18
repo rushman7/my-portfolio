@@ -79,7 +79,7 @@
     /* top: 0; - duplicate inherited from original casper CSS */
     width: 20px;
     height: 1px;
-    background: rgb(150, 150, 150);
+    background: rgb(46, 116, 181);
     top: 15px;
     -webkit-transition: background 0.15s ease;
     transition: background 0.15s ease;
