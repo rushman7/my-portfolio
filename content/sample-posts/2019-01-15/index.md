@@ -1,6 +1,6 @@
 ---
 title: "Cookbook"
-cover: "https://i.gyazo.com/a53b4dddbe5b713c804ad6780913a35d.png"
+cover: "https://i.gyazo.com/51e676e81da0754f2696a0e173f8b651.png"
 author: "casper"
 date: "2018-12-10"
 category: "Project"
@@ -12,7 +12,9 @@ tags:
     - prisma
 ---
 
-www.your-cookbook.us/ 
+[<img src="https://raw.githubusercontent.com/Lambda-School-Labs/Labs8-Cookbook/master/cookbook/src/designs/Logo/LogoWithTextBlue.png">](https://www.your-cookbook.us/)    
+###### Click logo to view Cookbook
+
 
 Cookbook is a web application centered around extracting recipes you find online and scheduling them for dates as well as meal times. Functionality includes a grocery list of ingredients to buy and step-by-step guide on creating each meal plan! Personal focus was on the Database(Prisma) and connection of Front-End to Back-End (Apollo).
 
