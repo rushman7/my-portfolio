@@ -1,7 +1,7 @@
 ---
 title: "Adventure MUD"
 cover: "https://i.gyazo.com/78dac7e361dc10f964268501c29e9bc0.png"
-author: "casper"
+author: "arthur"
 date: "2019-01-23"
 category: "Project"
 tags:

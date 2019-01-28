@@ -1,7 +1,7 @@
 ---
 title: "Cookbook"
 cover: "https://i.gyazo.com/51e676e81da0754f2696a0e173f8b651.png"
-author: "casper"
+author: "arthur"
 date: "2018-12-10"
 category: "Project"
 tags:
