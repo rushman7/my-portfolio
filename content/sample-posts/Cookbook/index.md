@@ -13,13 +13,7 @@ tags:
 ---
 
 [<img src="https://raw.githubusercontent.com/Lambda-School-Labs/Labs8-Cookbook/master/cookbook/src/designs/Logo/LogoWithTextBlue.png">](https://www.your-cookbook.us/)    
-###### Click logo to view Cookbook
 
-##### Team:
- * Vu Cao
- * Katie Gorbell
- * Arthur Pisakhov
- * Braden Walker
 
 Cookbook is a web application centered around extracting recipes you find online and scheduling them for dates as well as meal times. Functionality includes a grocery list of ingredients to buy and step-by-step guide on creating each meal plan! Personal focus was on the Database(Prisma) and connection of Front-End to Back-End (Apollo).
 
@@ -28,6 +22,14 @@ With Cookbook, you can save recipes from any website onto your account to view a
 Users can add a recipe they find online into our app and our scraper will retrieve all the necessary data for that recipe and store it in our
 backend server. Users can modify the meal and date of each recipe and as well as a generated grocery check-list for premium members.
 
+###### Click logo to view Cookbook
+
+##### Team:
+ * Vu Cao
+ * Katie Gorbell
+ * Arthur Pisakhov
+ * Braden Walker
+ 
 ##### Stack:
 - React.js:
     - Based on **reusable components** to build an entire app
