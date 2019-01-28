@@ -66,3 +66,5 @@ backend server. Users can modify the meal and date of each recipe and as well as
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwAseuJUqoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Github Link](https://github.com/Lambda-School-Labs/Labs8-Cookbook)
