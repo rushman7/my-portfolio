@@ -5,11 +5,11 @@ module.exports = {
   siteTitle: "Arthur Pisakhov", // Site title.
   siteTitleAlt: "Full Stack Web Developer.", // Alternative site title for SEO.
   siteLogo:
-    "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://arthur-pisakhov.netlify.com", // Domain of your website without pathPrefix.
+    "/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+  siteUrl: "https://arthurpisakhov.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A portfolio of projects created by Arthur Pisakhov, A Full Stack Web Developer learning and discovering his love for code.", // Website description used for RSS feeds/meta description tag.
+    "A portfolio of projects created by Arthur Pisakhov, A Full Stack Web Developer learning and discovering what the programming world has to offer.", // Website description used for RSS feeds/meta description tag.
   siteCover:
     "https://i.imgur.com/0JybAxJ.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
@@ -51,9 +51,9 @@ module.exports = {
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
-    label: "Gatsby Casper Starter" // Label used before the year
-    // year: "2018" // optional, set specific copyright year or range of years, defaults to current year
-    // url: "https://www.gatsbyjs.org/" // optional, set link address of copyright, defaults to site root
+    label: "Arthur Pisakhov", // Label used before the year
+    year: "2019", // optional, set specific copyright year or range of years, defaults to current year
+    url: "https://arthurpisakhov.com/" // optional, set link address of copyright, defaults to site root
   },
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
