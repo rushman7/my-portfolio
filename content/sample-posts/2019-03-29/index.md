@@ -12,7 +12,7 @@ tags:
 Help Me Decide is a simple descion making app. Allow a computer to make
 the difficult decisions for you.
 
-[Help Me Decide(Click me!)](https://help-me-decide.netlify.com//)
+[Help Me Decide(Click me!)](https://help-me-decide.netlify.com/)
 
 ##### Stack:
 - React.js:
