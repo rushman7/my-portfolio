@@ -10,7 +10,8 @@ module.exports = {
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "A portfolio of projects created by Arthur Pisakhov, A Full Stack Web Developer learning and discovering what the programming world has to offer.", // Website description used for RSS feeds/meta description tag.
-  siteCover:
+  favicon: '../static/logos/logo-1024.png',
+    siteCover:
     "https://i.imgur.com/0JybAxJ.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
