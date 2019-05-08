@@ -3,16 +3,16 @@ module.exports = {
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "arthur", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Arthur Pisakhov", // Site title.
-  siteTitleAlt: "Full Stack Web Developer.", // Alternative site title for SEO.
+  siteTitleAlt: "Software Engineer.", // Alternative site title for SEO.
   siteLogo:
     "/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://arthurpisakhov.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A portfolio of projects created by Arthur Pisakhov, A Full Stack Web Developer learning and discovering what the programming world has to offer.", // Website description used for RSS feeds/meta description tag.
+    "A portfolio by Arthur Pisakhov, A Software Engineer learning and discovering what the programming world has to offer.", // Website description used for RSS feeds/meta description tag.
   favicon: 'static/logos/logo-1024.png',
     siteCover:
-    "https://i.imgur.com/0JybAxJ.png", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://i2.wp.com/churchmediadrop.com/wp-content/uploads/edd/2017/11/Night-Sky.jpg?fit=1280%2C720&ssl=1", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Arthur Pisakhov", // The author name used in the RSS file
@@ -23,7 +23,6 @@ module.exports = {
   siteSocialUrls: [
     "https://github.com/rushman7",
     "http://www.linkedin.com/in/arthur-pisakhov",
-    "mailto:arthurpisakhov1@gmail.com",
     "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit?usp=sharing"
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
@@ -38,11 +37,6 @@ module.exports = {
       label: "LinkedIn",
       url: "http://www.linkedin.com/in/arthur-pisakhov",
       iconClassName: "fa fa-linkedin" // Disabled, see Navigation.jsx
-    },
-    {
-      label: "Email",
-      url: "mailto:arthurpisakhov1@gmail.com",
-      iconClassName: "fa fa-mail" // Disabled, see Navigation.jsx
     },
     {
       label: "Resume",

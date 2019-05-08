@@ -2,13 +2,12 @@
   "uid": "arthur",
   "name": "Arthur Pisakhov",
   "image": "https://i.imgur.com/YBFToZ4.jpg",
-  "url": "",
+  "url": "arthurpisakhov1@gmail.com",
   "location": "Brooklyn, New York",
   "bio": "An aspiring Full Stack Web Developer learning what the future generation of tech has to offer. I've been a computer enthusiast since i received my first PC. I enjoy making fun widget applications and applications that can help make people's lives easier. My expertise lies in the following: HTML, CSS, LESS, Javascript, Python, React, Redux, Node, Apollo, GraphQL, Prisma, and SQL. Always open to learn any stack the world has to offer.",
   "socialUrls": [
     "https://github.com/rushman7",
     "https://www.linkedin.com/in/arthur-pisakhov",
-    "mailto:arthurpisakhov1@gmail.com",
     "https://www.arthurpisakhov.com"
   ]
 }
