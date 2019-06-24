@@ -6,7 +6,7 @@ class AuthorWebsite extends React.Component {
     if (url) {
       return (
         <span className="author-link icon-link">
-          <a href={url}>{url}</a>
+          <a>{url}</a>
         </span>
       );
     }

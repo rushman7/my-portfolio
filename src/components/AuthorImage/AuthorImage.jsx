@@ -9,7 +9,6 @@ class AuthorImage extends React.Component {
         <figure className="author-image">
           <a
             className="img"
-            href={url}
             style={{ backgroundImage: `url("${image}")` }}
           >
             <span className="hidden">{`${name}'s Picture`}</span>
