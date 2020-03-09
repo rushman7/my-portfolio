@@ -14,7 +14,8 @@ tags:
 Adventure MUD is a small Multi User Dungeon game where you can traverse through a pre-determined range of maps and you can interact with the players
 in each map. Docker is used for the messaging API. Each player in the room is notified when a message is sent, a player joins the room, and when a player leaves the room.
 
-[Adventure MUD(Click me!)](https://adventure-mud.netlify.com/)
+[https://adventure-mud.netlify.com/](https://adventure-mud.netlify.com/)
+[Github](https://github.com/rushman7/Adventure-MUD)
 
 ##### Stack:
 - React.js:
@@ -28,5 +29,3 @@ in each map. Docker is used for the messaging API. Each player in the room is no
     - DRY
     
 <img src="https://media.giphy.com/media/1jl170RHV5f8fGeWES/giphy.gif"/>
-
-[Github Link](https://github.com/rushman7/Adventure-MUD)

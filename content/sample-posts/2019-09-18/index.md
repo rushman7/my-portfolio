@@ -11,7 +11,8 @@ tags:
 
 Poke-Pal is a small app created with React. Data is parsed from [PokeAPI](https://pokeapi.co)
 
-[Poke-Pal(Click me!)](https://poke-pal.netlify.com)
+[https://poke-pal.netlify.com](https://poke-pal.netlify.com)
+[Github](https://github.com/rushman7/Poke-API)
 
 ##### Stack:
 - React.js:
@@ -27,5 +28,3 @@ Poke-Pal is a small app created with React. Data is parsed from [PokeAPI](https:
     - More data when clicking endpoints.
 
 <img src="https://media.giphy.com/media/kbulNcFDvyWlAhPABt/giphy.gif"/>
-
-[Github Link](https://github.com/rushman7/Poke-API)

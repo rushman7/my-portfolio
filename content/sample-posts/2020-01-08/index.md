@@ -15,7 +15,8 @@ tags:
 
 PaprTradr is a desktop application that simulates a real world trading platforms like RobinHood and TD Ameritrade. It's inteded to give an up and coming trader to practice and hone their skill before risking their own capital in the world of investing.
 
-[PaprTradr(Click me!)](https://papr-tradr.netlify.com/)
+[https://papr-tradr.netlify.com/](https://papr-tradr.netlify.com/)
+[Github](https://github.com/Paper-Trader)
 
 ##### Stack:
 - React.js:
@@ -36,5 +37,3 @@ PaprTradr is a desktop application that simulates a real world trading platforms
 ##### API's:
     - https://www.alphavantage.co/
     - https://financialmodelingprep.com/developer/docs/
-
-[Github Link](https://github.com/rushman7/Hearthstone-Deck-Builder)
