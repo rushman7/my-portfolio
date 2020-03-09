@@ -12,7 +12,7 @@ tags:
 Help Me Decide is a simple descion making app. Allow a computer to make
 the difficult decisions for you.
 
-**[https://help-me-decide.netlify.com/](https://help-me-decide.netlify.com/)**  
+**[Link](https://help-me-decide.netlify.com/)**  
 **[Github](https://github.com/rushman7/HelpMeDecide)**
 
 ##### Stack:
