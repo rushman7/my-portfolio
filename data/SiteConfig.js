@@ -23,7 +23,7 @@ module.exports = {
   siteSocialUrls: [
     "https://github.com/rushman7",
     "http://www.linkedin.com/in/arthur-pisakhov",
-    "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit?usp=sharing"
+    "https://docs.google.com/document/d/1_tO2nz78-ObbjWqlLsAVSlDheoBuOJ8xk-JsTjUe86g/edit?usp=sharing",
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
@@ -47,7 +47,7 @@ module.exports = {
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
     label: "Arthur Pisakhov", // Label used before the year
-    year: "2019", // optional, set specific copyright year or range of years, defaults to current year
+    year: "2020", // optional, set specific copyright year or range of years, defaults to current year
     url: "https://arthurpisakhov.com/" // optional, set link address of copyright, defaults to site root
   },
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.

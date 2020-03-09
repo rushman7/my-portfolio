@@ -1,4 +1,5 @@
-// import FontIcon from "react-md/lib/FontIcons";
+import  { FontIcon } from "react-md";
+import React from 'react';
 import { Link } from "gatsby";
 
 function GetNavList(config) {
@@ -18,7 +19,7 @@ function GetNavList(config) {
     config.userLinks.forEach(link => {
       NavList.push({
         primaryText: link.label,
-        // LeftIcon: <FontIcon forceSize iconClassName={link.iconClassName} />,
+        LeftIcon: <FontIcon forceSize iconClassName={link.iconClassName} />,
         component: "a",
         href: link.url
       });

@@ -46,6 +46,7 @@ const mapToListParts = (item, index) => {
 class Navigation extends Component {
   render() {
     const { config, onClose } = this.props;
+    console.log(config)
     const navItems = GetNavList(config);
     return (
       <div>
