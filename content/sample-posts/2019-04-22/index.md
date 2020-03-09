@@ -14,8 +14,8 @@ tags:
 Budget IO is an application designed to help manage your monthly budget.
 It tracks all your expenses and allows you set a date, amount, note, and name your budget. It also tracks your limit and notifies you when you have reached your monlthy limit. Users can register an account or can login with Facebook, Google, or Github.
 
-[https://budget-io.herokuapp.com/](https://budget-io.herokuapp.com/)
-[Github](https://github.com/rushman7/Budget-IO)
+**[https://budget-io.herokuapp.com/](https://budget-io.herokuapp.com/)**  
+**[Github](https://github.com/rushman7/Budget-IO)**
 
 ##### Stack:
 - React.js:
