@@ -12,7 +12,7 @@ tags:
     - prisma
 ---
 
-[<img src="https://raw.githubusercontent.com/Lambda-School-Labs/Labs8-Cookbook/master/cookbook/src/designs/Logo/LogoWithTextBlue.png">](https://www.your-cookbook.us/)  
+[<img src="https://raw.githubusercontent.com/Lambda-School-Labs/Labs8-Cookbook/master/cookbook/src/designs/Logo/LogoWithTextBlue.png">](https://your-cookbook.netlify.app/)  
 **[Github](https://github.com/Lambda-School-Labs/Labs8-Cookbook)**
 
 
